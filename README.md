@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noes75
 - 👀 I’m interested in ... 
   ' Former field constructor and workshop fabricator of steel piping, and steel building components in general. 
-  ' Current day job as an Construction Engineer and Workflow optimezer.
+  ' Current day job as an Construction Engineer and Workflow optimizer.
 - 🌱 I’m currently learning ...
   ' VB.Net and VBA in order to be able to make CAD tools, for optimizing CAD Workflows.
   
